@@ -1,0 +1,10 @@
+JFK:1200
+Korbin1:900
+AAA:700
+Korbin2:600
+AAA:500
+Bob:400
+Korbin:100
+Korbin:100
+JFK:100
+AAA:000
